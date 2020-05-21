@@ -1,6 +1,6 @@
 # DevAssessment
 
-1) Binary Search
+# 1) Binary Search
 
 Problem
 Implement a standard binary search algorithm.
@@ -20,7 +20,7 @@ Output: 4
 
 ---------------------------------------------------------------------------
 
-2) Target Value
+#2) Target Value
 Given two arrays a and b and target value t, write a function that returns the two values from each array that add up to the target t.
 
 Ex:
