@@ -12,8 +12,10 @@ Examples
 
 func BinarySearch(source []int, value int) int { }
 
+
 func main() {
-	values := []int{1, 2, 3, 4, 5, 6, 7}
+
+	values := [] int{1, 2, 3, 4, 5, 6, 7}
 	fmt.Println(BinarySearch(values, 5))
 }
 
