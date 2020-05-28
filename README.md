@@ -40,11 +40,17 @@ if no match return []
 ---------------------------------------------------------------------------------------------------------------------
 
 # 3) Efficient Function in Strings
-Write an efficient function to find the first nonrepeated character in a string. For instance, the first nonrepeated character in “ total” is ‘o’ and the first nonrepeated character in “teeter” is ‘r’. Discuss the efficiency of your algorithm.
+Write an efficient function to find the first nonrepeated character in a string. For instance, the first nonrepeated character in “ total” is ‘o’ and the first nonrepeated character in “teeter” is ‘r’. 
+
+Discuss the efficiency of your algorithm.
+
+Constraints
+None.  Any language
 
 ---------------------------------------------------------------------------------------------------------------------
 # 4) REST API
 Assume the REST API GET request like: "GET /v1/factory/assemblies/ASSY-2389" returns this reply:
+
 {
 	“description”: “Mega bundle”
 	“parts”: [
@@ -53,5 +59,7 @@ Assume the REST API GET request like: "GET /v1/factory/assemblies/ASSY-2389" ret
 		{  “id”: “PRT-978” }
 	]
 }
-What is the problem with this API?   How would you rewrite the request to solve the problem?
+
+What is the problem with this API?   
+How would you rewrite the request to solve the problem?
 
